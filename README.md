@@ -1,3 +1,1 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+Portfolio using template html5 up theme "Strata": https://html5up.net/strata
